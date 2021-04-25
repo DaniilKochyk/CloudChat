@@ -13,5 +13,9 @@ Projekt zal z wykorzystaniem firebase
 ##### Opis
 Chat napisany w android studio 
 w aplikacji jest autentyfikacja (żeby wejść do chatu trzerba być zalogowanym, jeżeli nie ma konta można go stworzyć) konta przechowywają się w bazie danych
+
 wszystkie wiadomości dodaje się do bazy danych
+
 dla widoku wykorzystano biblioteki https://github.com/lguipeng/BubbleView, https://github.com/hani-momanii/SuperNova-Emoji
+
+baza danych - Firebase
